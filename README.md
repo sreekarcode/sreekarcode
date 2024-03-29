@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Related Projects:</h2>
 
-- <b>System Related Projects (AlgoExpert)</b>
+- <b>System Related Projects</b>
   - [Graph Library System](https://github.com/sreekarcode/Graph-Library-System.git)
   
 - <b>AI Related Projects (TensorFlow, Python and Machine Learning Components)</b>
