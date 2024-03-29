@@ -9,6 +9,11 @@
   - [Blog Post Generator](https://github.com/sreekarcode/Generating-Blog-Posts-with-using-AI-Text-Generation-Models.git)
   - [Analyzing Sentiments using AI](https://github.com/sreekarcode/Sentiment-Analysis-with-BERT.git)
   - [Sign Language Detection](https://github.com/sreekarcode/Sign-Language-Detection-using-Action-Recognition.git)
+ 
+- <b>Web & Data Related Projects</b>
+  - College Website
+  - Game Library Web Application
+    
   
 <h2> 🤳 Connect with me:</h2>
 
