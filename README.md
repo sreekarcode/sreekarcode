@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Related Projects:</h2>
 
+- <b> AI & Real-Time Related Projects </b>
+  - [Data Retrieval Application](https://github.com/sreekarcode/Data-retrieval-Application)
+  - [Real-Time Data Streaming](https://github.com/sreekarcode/Real-Time-Data-Streaming)
+  - 
 - <b>System Related Projects</b>
   - [Graph Library System](https://github.com/sreekarcode/Graph-Library-System.git)
  
