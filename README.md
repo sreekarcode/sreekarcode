@@ -5,6 +5,7 @@
 - <b> AI & Real-Time Related Projects </b>
   - [Data Retrieval Application](https://github.com/sreekarcode/Data-retrieval-Application)
   - [Real-Time Data Streaming](https://github.com/sreekarcode/Real-Time-Data-Streaming)
+  - [Boston House Price Prediction](https://github.com/sreekarcode/Boston-House-Price-Prediction)
     
 - <b>System Related Projects</b>
   - [Graph Library System](https://github.com/sreekarcode/Graph-Library-System.git)
