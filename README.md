@@ -10,8 +10,8 @@
   - [Graph Library System](https://github.com/sreekarcode/Graph-Library-System.git)
  
 - <b>Web & Data Related Projects</b>
-  - College Website
-  - Game Library Web Application
+  - [University Web-Application](https://github.com/sreekarcode/University-Web-Application)
+  - [Game Library Web Application](https://github.com/sreekarcode/Game-Library-Application)
 
 <b>Practice Projects</b>
   - [Blog Post Generator](https://github.com/sreekarcode/Generating-Blog-Posts-with-using-AI-Text-Generation-Models.git)
