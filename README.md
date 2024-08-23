@@ -17,7 +17,8 @@
 <b>Practice Projects</b>
   - [Blog Post Generator](https://github.com/sreekarcode/Generating-Blog-Posts-with-using-AI-Text-Generation-Models.git)
   - [Analyzing Sentiments using AI](https://github.com/sreekarcode/Sentiment-Analysis-with-BERT.git)
-  - [Sign Language Detection](https://github.com/sreekarcode/Sign-Language-Detection-using-Action-Recognition.git) 
+  - [Sign Language Detection](https://github.com/sreekarcode/Sign-Language-Detection-using-Action-Recognition.git)
+  - [Image Classification on Dog Breeds](https://github.com/sreekarcode/Image-Classifier-using-CNN)
 
 [<img align="left" alt="SreekarGarimella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
